@@ -62,9 +62,22 @@ button{
     border-radius: 5px;
     font-size: 24px;
     font-family: "Poppins", sans-serif;
+    cursor: pointer;
 }
 
 button > img{
     height: 32px;
     width: auto;
+}
+
+p{
+    color: white;
+    font-size: 10px;
+    font-family: "Poppins", sans-serif;
+    margin-top: 50px;
+}
+
+p > a{
+    color: white;
+    text-decoration: underline;
 }
